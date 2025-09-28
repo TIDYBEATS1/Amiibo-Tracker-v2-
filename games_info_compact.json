@@ -38898,7 +38898,7 @@
                 "Switch": [
                     {
                         "name": "Super Smash Bros. Ultimate",
-                        "usage": "Battle and train up a computer-controlled Figure Player of the character",
+                        "usage": "Battle and train up a computer-controlled Figure Player of the character"
                     },
                     {
                         "name": "Street Fighter 6 (Switch 2)",
@@ -40292,13 +40292,11 @@
                 "Switch": [
                     {
                         "name": "The Legend of Zelda: Tears of the Kingdom",
-                        "usage": "Unlock an amiibo-exclusive character-specific paraglider fabric and 
-                                  Receive materials and a weapon or rare item"
+                        "usage": "Unlock an amiibo-exclusive character-specific paraglider fabric And Receive materials and a weapon or rare item"
                     },
                     {
                         "name": "The Legend of Zelda: Link's Awakening",
-                        "usage": " Unlock one of five amiibo-exclusive Chamber Dungeon chambers and 
-                                   Save your Chamber Dungeon to the amiibo to share with friends (Read+Write)"
+                        "usage": "Unlock one of five amiibo-exclusive And Save your Chamber Dungeon to the amiibo to share with friends (Read+Write)"
                     },
                     {
                         "name": "Conga Master Party!",
@@ -40324,13 +40322,11 @@
                 "Switch": [
                     {
                         "name": "The Legend of Zelda: Tears of the Kingdom",
-                        "usage": "Unlock an amiibo-exclusive character-specific paraglider fabric and 
-                                  Receive materials and a weapon or rare item"
+                        "usage": "Unlock an amiibo-exclusive character-specific paraglider fabric And Receive materials and a weapon or rare item"
                     },
                     {
                         "name": "The Legend of Zelda: Link's Awakening",
-                        "usage": " Unlock one of five amiibo-exclusive Chamber Dungeon chambers and 
-                                   Save your Chamber Dungeon to the amiibo to share with friends (Read+Write)"
+                        "usage": "Unlock one of five amiibo-exclusive And Save your Chamber Dungeon to the amiibo to share with friends (Read+Write)"
                     },
                     {
                         "name": "Conga Master Party!",
@@ -40356,13 +40352,11 @@
                 "Switch": [
                     {
                         "name": "The Legend of Zelda: Tears of the Kingdom",
-                        "usage": "Unlock an amiibo-exclusive character-specific paraglider fabric and 
-                                  Receive materials and a weapon or rare item"
+                        "usage": "Unlock an amiibo-exclusive character-specific paraglider fabric And Receive materials and a weapon or rare item"
                     },
                     {
                         "name": "The Legend of Zelda: Link's Awakening",
-                        "usage": " Unlock one of five amiibo-exclusive Chamber Dungeon chambers and 
-                                   Save your Chamber Dungeon to the amiibo to share with friends (Read+Write)"
+                        "usage": "Unlock one of five amiibo-exclusive And Save your Chamber Dungeon to the amiibo to share with friends (Read+Write)"
                     },
                     {
                         "name": "Conga Master Party!",
@@ -40910,6 +40904,97 @@
                     {
                         "name": "Super Smash Bros. Ultimate",
                         "usage": "Battle and train up a computer-controlled Figure Player of the character"
+                    }
+                ]
+            },
+            "hasGames": true
+        },
+        "0x34c5000104b01d02": {
+            "games": {
+                "3DS": [],
+                "WiiU": [],
+                "Switch": [
+                    {
+                        "name": "Street Fighter 6 (Switch 2)",
+                        "usage": "Save and load outfit, color, and button settings / Scan another player's amiibo to friend or follow them (Read+Write)"
+                    }
+                ]
+            },
+            "hasGames": true
+        },
+        "0x34cf000104ba1d02": {
+            "games": {
+                "3DS": [],
+                "WiiU": [],
+                "Switch": [
+                    {
+                        "name": "Street Fighter 6 (Switch 2)",
+                        "usage": "Save and load outfit, color, and button settings / Scan another player's amiibo to friend or follow them (Read+Write)"
+                    }
+                ]
+            },
+            "hasGames": true
+        },
+        "0x34c9000104b41d02": {
+            "games": {
+                "3DS": [],
+                "WiiU": [],
+                "Switch": [
+                    {
+                        "name": "Street Fighter 6 (Switch 2)",
+                        "usage": "Save and load outfit, color, and button settings / Scan another player's amiibo to friend or follow them (Read+Write)"
+                    }
+                ]
+            },
+            "hasGames": true
+        },
+        "0x34d2000104bd1d02": {
+            "games": {
+                "3DS": [],
+                "WiiU": [],
+                "Switch": [
+                    {
+                        "name": "Street Fighter 6 (Switch 2)",
+                        "usage": "Save and load outfit, color, and button settings / Scan another player's amiibo to friend or follow them (Read+Write)"
+                    }
+                ]
+            },
+            "hasGames": true
+        },
+        "0x34d3000104be1d02": {
+            "games": {
+                "3DS": [],
+                "WiiU": [],
+                "Switch": [
+                    {
+                        "name": "Street Fighter 6 (Switch 2)",
+                        "usage": "Save and load outfit, color, and button settings / Scan another player's amiibo to friend or follow them (Read+Write)"
+                    }
+                ]
+            },
+            "hasGames": true
+        },
+        "0x34d4000104bf1d02": {
+            "games": {
+                "3DS": [],
+                "WiiU": [],
+                "Switch": [
+                    {
+                        "name": "Street Fighter 6 (Switch 2)",
+                        "usage": "Save and load outfit, color, and button settings / Scan another player's amiibo to friend or follow them (Read+Write)"
+                    }
+                ]
+            },
+            "hasGames": true
+        },
+        "0x34d5000104c01d02": {
+            "games": {
+                "3DS": [],
+                "WiiU": [],
+                "Switch": [
+                    {
+                        "name": "Street Fighter 6 (Switch 2)",
+                        "usage": "Save and load outfit, color, and button settings / Scan another player's amiibo to friend or follow them (Read+Write)"
                     }
                 ]
             },
